@@ -15,12 +15,12 @@ body{
     }
 
 h1{
-   font-size: 42 px;
+   font-size: 42px;
    text-align: center;
    }
 
 footer{
-       font size: 10 px;
+       font-size: 10px;
        text-align: center;
        }
 
