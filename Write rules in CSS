@@ -1,0 +1,12 @@
+a{
+  color: #B03A2E;
+  }
+
+footer{
+       color: #7B241C;
+       background-color: white;
+       }
+
+body{
+     background-color: #FADBD8;
+     }
