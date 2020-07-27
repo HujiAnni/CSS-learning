@@ -1,0 +1,31 @@
+a {
+  color: #B03A2E;
+}
+
+footer {
+  color: #7B241C;
+  background-color: white;
+}
+
+/* --- DO NOT MODIFY ANYTHING ABOVE THIS LINE --- */
+/* ENTER CODE BELOW */
+
+body{
+    font-family: sans-serif;
+    }
+
+h1{
+   font-size: 42 px;
+   text-align: center;
+   }
+
+footer{
+       font size: 10 px;
+       text-align: center;
+       }
+
+li{
+   list-style-type:none;
+   }
+
+/* --- DO NOT MODIFY ANYTHING BELOW THIS LINE --- */
