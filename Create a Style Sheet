@@ -1,0 +1,50 @@
+/* INSERT YOUR CSS HERE */
+
+
+/*  DO NOT MODIFY ANYTHING BELOW THIS LINE */
+
+img {
+  border-radius: 5px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  font-size: 12px;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/gotham/GOTHMLIG.TTF") format("TTF");
+  font-family: "Gotham Med";
+  src: url("../fonts/gotham/GOTHMMED.TTF") format("TTF");
+  font-family: "Gotham Book";
+  src: url("../fonts/gotham/GOTHMBOK.TTF") format("TTF");
+}
+
+
+body{
+    font-family: Gotham, sans-serif;
+    }
+    
+h1{
+   font-family: Gotham Med, sans-serif;
+   }
+
+nav{
+   font-family: Gotham Med, sans-serif;
+   }
+   
+h2{
+   font-family: Gotham Book, sans-serif;
+   }
