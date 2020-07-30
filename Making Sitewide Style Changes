@@ -1,0 +1,23 @@
+#CSS
+
+.stress {
+        font-weight: bold;
+        font-size: 18px;
+}
+
+
+
+#HTML
+<p class="stress">
+      We are a non-profit, home to over 200 animals. We are committed to promoting the advancement of animal care and conservation. As you explore the different habitats and animal species, we hope you will learn more about our mission and join us in goal of ending animal extinction and helping the Earth.
+    </p>
+<p class="stress">
+        Adults (Aged 12 and up) are $40 for admission.
+        Children (Aged 3 to 11) are $25 for admission.
+      </p>
+      
+      
+      
+      <p class="stress">
+      As our society continues to face more and more environmental concerns, it is important to foster awareness in children. It’s never too early to introduce any child to learn and love animals and their natural habitats. Through stories, activities, projects, and more, we hope to encourage more children to become interested in the environment and the animals we share it with. Before exploring the zoo on our own, make sure to stop by the visiting center to pick up a free map as well as one of our activity books, companion guide book, or join a guided tour led by one of our many expert caretakers. Although these additional resources are also free, we ask, if able, for a small contribution as you pick up these resources which will be used toward our many programs such as the endangered species breeding program.
+    </p>
