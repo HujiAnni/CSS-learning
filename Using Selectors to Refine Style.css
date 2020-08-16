@@ -1,0 +1,75 @@
+#CSS
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/gotham/GOTHMLIG.TTF")
+}
+
+@font-face {
+  font-family: "Gotham Book";
+  src: url("../fonts/gotham/GOTHMBOK.TTF")
+}
+
+@font-face {
+  font-family: "Gotham Med";
+  src: url("../fonts/gotham/GOTHMMED.TTF")
+}
+
+body {
+    font-family: "Gotham", sans-serif;
+    background-color:#f7f7f6;
+}
+
+img {
+  border-radius: 5px;
+  width: 540px;
+  }
+
+h1 {
+  color: #024258;
+  font-family: "Gotham Med", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #50a2c0;
+  font-family: "Gotham Book", sans-serif;
+}
+
+hr {
+  color: #7c7b86;
+}
+
+nav {
+  background-color: #72aabe;
+}
+
+a {
+  color: #3683d2;
+  font-family: "Gotham Med", sans-serif;
+  text-decoration: none;
+}
+
+nav a {
+       color: white;
+}
+.navigation {
+  list-style: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.slogan {
+       font-style: Italic;
+       font-variant: all-small-caps;
+       font-size: 24px;
+       color:#50a2c0;
+}
+
+footer {
+  color: white;
+  background-color: #72aabe;
+  text-align: center;
+  font-size: 12px;
+}
